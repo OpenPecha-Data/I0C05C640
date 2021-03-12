@@ -5,11 +5,12 @@ source_metadata:
   title: བེམ་ཤེས་ལྡན་མིན་འདུ་བྱེད་གསུམ་གྱི་གྲོས་འདེབས་ལས་བྱུང་བ་སྨྱོན་པའི་ཟློས་གར་གསལ་བར་བྱེད་པའི་མེ་ལོང་།
   author: ''
   volumes:
-    1e467cfb6a45454294b7f3f38f052185:
+    08e8288dea4446d5981e45c67e6236ca:
       image_group_id: I3CN1806
-      title: ''
+      title: Volume 1 of sems kyis gzhan kho na ji ltar byed yod pa'i rnam thar/
       volume_number: 1
       total_pages: 24
+      base_file: v001.txt
 ebook_metadata:
   title: བེམ་ཤེས་ལྡན་མིན་འདུ་བྱེད་གསུམ་གྱི་གྲོས་འདེབས་ལས་བྱུང་བ་སྨྱོན་པའི་ཟློས་གར་གསལ་བར་བྱེད་པའི་མེ་ལོང་།
   author: ''
