@@ -3,163 +3,140 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   8b07c214e2724049af05a28d3eb60fca:
-    page_index: 1a
-    page_info: null
-    reference: I3CN18060001
+    imgnum: 1
+    reference: I3CN18060001.tif
     span:
       start: 0
       end: 619
   41696da010774e0eb290ff41f2f226da:
-    page_index: 2a
-    page_info: null
-    reference: I3CN18060003
+    imgnum: 3
+    reference: I3CN18060003.jpg
     span:
       start: 624
       end: 957
   32d118c8978641718d5ad7b99ce3c783:
-    page_index: 2b
-    page_info: null
-    reference: I3CN18060004
+    imgnum: 4
+    reference: I3CN18060004.jpg
     span:
       start: 962
       end: 1652
   d990d3e6d03d47dc926fd766ba8eae61:
-    page_index: 3a
-    page_info: null
-    reference: I3CN18060005
+    imgnum: 5
+    reference: I3CN18060005.jpg
     span:
       start: 1657
       end: 2306
   73a2c0a0169b461c9a21c9a4a442e7ae:
-    page_index: 3b
-    page_info: null
-    reference: I3CN18060006
+    imgnum: 6
+    reference: I3CN18060006.jpg
     span:
       start: 2311
       end: 3494
   5cfd64f4dc9d404f923181787555b6d8:
-    page_index: 4a
-    page_info: null
-    reference: I3CN18060007
+    imgnum: 7
+    reference: I3CN18060007.jpg
     span:
       start: 3499
       end: 4784
   9297bb824ac0488e91ef670d57dd67c2:
-    page_index: 4b
-    page_info: null
-    reference: I3CN18060008
+    imgnum: 8
+    reference: I3CN18060008.jpg
     span:
       start: 4789
       end: 6056
   bda23022791b47b0ad737a464b502c76:
-    page_index: 5a
-    page_info: null
-    reference: I3CN18060009
+    imgnum: 9
+    reference: I3CN18060009.jpg
     span:
       start: 6061
       end: 7220
   54639dca1521467cbf18f0ba608ea3c3:
-    page_index: 5b
-    page_info: null
-    reference: I3CN18060010
+    imgnum: 10
+    reference: I3CN18060010.jpg
     span:
       start: 7225
       end: 8435
   4872b3c485674e94890ef441d025982f:
-    page_index: 6a
-    page_info: null
-    reference: I3CN18060011
+    imgnum: 11
+    reference: I3CN18060011.jpg
     span:
       start: 8440
       end: 9615
   3956c2f3372d4188b347f97ac6db8b59:
-    page_index: 6b
-    page_info: null
-    reference: I3CN18060012
+    imgnum: 12
+    reference: I3CN18060012.jpg
     span:
       start: 9620
       end: 10858
   7e60ef34bd7845a5b3742145e391a3d5:
-    page_index: 7a
-    page_info: null
-    reference: I3CN18060013
+    imgnum: 13
+    reference: I3CN18060013.jpg
     span:
       start: 10863
       end: 12069
   7cc448be14f4442ab4bc64ca4ae89b1d:
-    page_index: 7b
-    page_info: null
-    reference: I3CN18060014
+    imgnum: 14
+    reference: I3CN18060014.jpg
     span:
       start: 12074
       end: 13332
   693322a112e04451a38a1135531e84f5:
-    page_index: 8a
-    page_info: null
-    reference: I3CN18060015
+    imgnum: 15
+    reference: I3CN18060015.jpg
     span:
       start: 13337
       end: 14645
   571df8d0c87f4ed6b154cd79fdef80f4:
-    page_index: 8b
-    page_info: null
-    reference: I3CN18060016
+    imgnum: 16
+    reference: I3CN18060016.jpg
     span:
       start: 14650
       end: 15935
   490a1db695cf419db62c1cf9f9ff46aa:
-    page_index: 9a
-    page_info: null
-    reference: I3CN18060017
+    imgnum: 17
+    reference: I3CN18060017.jpg
     span:
       start: 15940
       end: 17267
   8a4518bb6d324dbdbae9e09b39e2a2f7:
-    page_index: 9b
-    page_info: null
-    reference: I3CN18060018
+    imgnum: 18
+    reference: I3CN18060018.jpg
     span:
       start: 17272
       end: 18694
   0b1aa79b0857411091355b0bbe8610d5:
-    page_index: 10a
-    page_info: null
-    reference: I3CN18060019
+    imgnum: 19
+    reference: I3CN18060019.jpg
     span:
       start: 18699
       end: 20012
   8cd96d3b89df42138c5b7602822c6de5:
-    page_index: 10b
-    page_info: null
-    reference: I3CN18060020
+    imgnum: 20
+    reference: I3CN18060020.jpg
     span:
       start: 20017
       end: 21297
   ae54136e93fc42e38a7e78aec3a279aa:
-    page_index: 11a
-    page_info: null
-    reference: I3CN18060021
+    imgnum: 21
+    reference: I3CN18060021.jpg
     span:
       start: 21302
       end: 22668
   dceb344ab8f54ad88b3a89971297efe0:
-    page_index: 11b
-    page_info: null
-    reference: I3CN18060022
+    imgnum: 22
+    reference: I3CN18060022.jpg
     span:
       start: 22673
       end: 23888
   33e437d5f81e44d29ad6ded6767eb7f8:
-    page_index: 12a
-    page_info: null
-    reference: I3CN18060023
+    imgnum: 23
+    reference: I3CN18060023.jpg
     span:
       start: 23893
       end: 24509
   15cd9a9b7bc7418db717854b3ea2e755:
-    page_index: 12b
-    page_info: null
-    reference: I3CN18060024
+    imgnum: 24
+    reference: I3CN18060024.jpg
     span:
       start: 24514
       end: 24529
